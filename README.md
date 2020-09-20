@@ -1,6 +1,7 @@
 ### Guten Tag 👋, Ich bin Sid.
-#### and that's all the german i know : ))
-I am a computer science engineer interested in sports analytics and annoyed by how it's still so difficult to predict sports matches. I follow NFL, MLB and EPL (so if you wanna talk about it, hit me up).
+(and that's all the german i know : )))  
+
+Hey, I am a computer science engineer interested in sports analytics and annoyed by how it's still so difficult to predict sports matches. I follow NFL, MLB and EPL (so if you wanna talk about it, hit me up).
 
 Skills: PYTHON / C++ / FLASK / (procrastinating)
 
