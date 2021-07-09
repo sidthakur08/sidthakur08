@@ -1,13 +1,12 @@
 ### Guten Tag 👋, Ich bin Sid.
-(und that's all the german i know : )))  
+und das ist alle Deutsch ich spreche :)
 
-Hey, I am a computer science engineer interested in sports analytics and annoyed by how it's still so difficult to predict sports matches. I follow NFL, MLB and EPL (so if you wanna talk about it, hit me up).
+Hey, I am a Computer Science Engineer interested in Machine Learning and Sports Analytics. I like Statistical Modelling and Natural Language Processing, to be precise. I follow American Football, Baseball, Soccer and Ice Hockey (ready to talk about these things anytime you want).
 
-Skills: PYTHON / C++ / FLASK / (procrastinating)
+Skills: PYTHON / R / C++ / FLASK 
 
 - 🌱 I’m currently learning RNNs, LSTMs and Time Series Forecasting 
-- 📫 How to reach me: siddhantthakur08@gmail.com 
-
+- Website / Portfolio : [Siddhant Thakur](https://sidthakur08.github.io/)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sidthakur08)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/siddhant-thakur-08/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/sidtweetsnow)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg' alt='twitch' height='40'>](http://twitch.tv/notsolilpp)  
 
